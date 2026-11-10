@@ -1,6 +1,6 @@
 ⚙️  MechQ app is a completely free, locally hosted Streamlit web application that lets you take comprehensive Mechanical Engineering MCQ quizzes directly in your browser at your own convenience. 
 
-https://studio.youtube.com/video/uoPFQwpFY1U/edit
+https://www.youtube.com/watch?v=uoPFQwpFY1U 
 
  ### 🚀 Key Features 
  * **⏱️ Dual Testing Modes:** Toggle between a pressurized timer mode or a relaxed, untimed self-paced mode. 
